@@ -17,7 +17,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding2-min.jpg" title="Project Name">
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding2-min.jpg" title="Annie & Catherine">
 					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding2-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
 						<div class="project-category text-white-50">2024</div>
@@ -26,7 +26,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding3-min.jpg" title="Project Name">
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding3-min.jpg" title="Gab & Gab">
 					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding3-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
 						<div class="project-category text-white-50">2023</div>
@@ -35,16 +35,16 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding4-min.jpg" title="Project Name">
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding4-min.jpg" title="Byeol & Si-Woo">
 					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding4-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
 						<div class="project-category text-white-50">2023</div>
-						<div class="project-name">Byeol & Si-woo</div>
+						<div class="project-name">Byeol & Si-Woo</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding5-min.jpg" title="Project Name">
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding5-min.jpg" title="Katherine & Dimitri">
 					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding5-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
 						<div class="project-category text-white-50">2022</div>
@@ -53,7 +53,7 @@
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding6-min.jpg" title="Project Name">
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding6-min.jpg" title="AD & Clay">
 					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding6-min.jpg" alt="..." />
 					<div class="portfolio-box-caption p-3">
 						<div class="project-category text-white-50">2022</div>
