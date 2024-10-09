@@ -1,5 +1,5 @@
 @extends('master')
-@section('title', 'Home')
+@section('title', 'Contact')
 @section('content')
 <!-- Contact-->
 <section class="page-section" id="contact">

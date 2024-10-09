@@ -1,9 +1,11 @@
 @extends('master')
-@section('title', 'Home')
+@section('title', 'Portfolio')
 @section('content')
 <!-- Portfolio-->
-<div id="portfolio">
+<div class="page-section" id="portfolio">
 	<div class="container-fluid p-0">
+		<h2 class="text-center mt-0">Past projects</h2>
+		<hr class="divider" />
 		<div class="row g-0">
 			<div class="col-lg-4 col-sm-6">
 				<a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
@@ -65,8 +67,8 @@
 <!-- Call to action-->
 <section class="page-section bg-dark text-white">
 	<div class="container px-4 px-lg-5 text-center">
-		<h2 class="mb-4">Free Download at Start Bootstrap!</h2>
-		<a class="btn btn-light btn-xl" href="https://startbootstrap.com/theme/creative/">Download Now!</a>
+		<h2 class="mb-4">Let's collaborate !</h2>
+		<a class="btn btn-light btn-xl" href="/contact">Contact</a>
 	</div>
 </section>
 @endsection
