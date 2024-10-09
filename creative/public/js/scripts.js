@@ -14,8 +14,7 @@ window.addEventListener('DOMContentLoaded', event => {
         const navbarCollapsible = document.body.querySelector('#mainNav');
 		const uri = document.documentURI;
 		const uriFragment = uri.split("/");
-		const isHome = uriFragment[3] == '';
-		console.log(isHome);
+		const isHome = uriFragment.at(-1) == '';
 
         if (!navbarCollapsible) {
             return;

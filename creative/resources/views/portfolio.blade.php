@@ -8,56 +8,56 @@
 		<hr class="divider" />
 		<div class="row g-0">
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
-					<img class="img-fluid" src="assets/img/portfolio/thumbnails/1.jpg" alt="..." />
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding1-min.jpg" title="Sarah & Thomas">
+					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding1-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
-						<div class="project-category text-white-50">Category</div>
-						<div class="project-name">Project Name</div>
+						<div class="project-category text-white-50">2024</div>
+						<div class="project-name">Sarah & Thomas</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/2.jpg" title="Project Name">
-					<img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="..." />
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding2-min.jpg" title="Project Name">
+					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding2-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
-						<div class="project-category text-white-50">Category</div>
-						<div class="project-name">Project Name</div>
+						<div class="project-category text-white-50">2024</div>
+						<div class="project-name">Annie & Catherine</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpg" title="Project Name">
-					<img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="..." />
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding3-min.jpg" title="Project Name">
+					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding3-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
-						<div class="project-category text-white-50">Category</div>
-						<div class="project-name">Project Name</div>
+						<div class="project-category text-white-50">2023</div>
+						<div class="project-name">Gab & Gab</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpg" title="Project Name">
-					<img class="img-fluid" src="assets/img/portfolio/thumbnails/4.jpg" alt="..." />
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding4-min.jpg" title="Project Name">
+					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding4-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
-						<div class="project-category text-white-50">Category</div>
-						<div class="project-name">Project Name</div>
+						<div class="project-category text-white-50">2023</div>
+						<div class="project-name">Byeol & Si-woo</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/5.jpg" title="Project Name">
-					<img class="img-fluid" src="assets/img/portfolio/thumbnails/5.jpg" alt="..." />
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding5-min.jpg" title="Project Name">
+					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding5-min.jpg" alt="..." />
 					<div class="portfolio-box-caption">
-						<div class="project-category text-white-50">Category</div>
-						<div class="project-name">Project Name</div>
+						<div class="project-category text-white-50">2022</div>
+						<div class="project-name">Katherine & Dimitri</div>
 					</div>
 				</a>
 			</div>
 			<div class="col-lg-4 col-sm-6">
-				<a class="portfolio-box" href="assets/img/portfolio/fullsize/6.jpg" title="Project Name">
-					<img class="img-fluid" src="assets/img/portfolio/thumbnails/6.jpg" alt="..." />
+				<a class="portfolio-box" href="assets/img/portfolio/fullsize/wedding6-min.jpg" title="Project Name">
+					<img class="img-fluid" src="assets/img/portfolio/thumbnails/wedding6-min.jpg" alt="..." />
 					<div class="portfolio-box-caption p-3">
-						<div class="project-category text-white-50">Category</div>
-						<div class="project-name">Project Name</div>
+						<div class="project-category text-white-50">2022</div>
+						<div class="project-name">AD & Clay</div>
 					</div>
 				</a>
 			</div>
