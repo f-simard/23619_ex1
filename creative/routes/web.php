@@ -14,7 +14,7 @@ use App\Http\Controllers\SiteController;
 |
 */
 
-Route::get('/', [SiteController::class, 'home']);
+Route::get('/home', [SiteController::class, 'home']);
 Route::get('/contact', [SiteController::class, 'contact']);
 Route::post('/contact', [SiteController::class, 'contactForm']);
 Route::get('/services', [SiteController::class, 'services']);
